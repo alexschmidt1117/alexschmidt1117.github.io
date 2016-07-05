@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Avenir-Book;
+    src: url(/fonts/Avenir-Book.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir-BookOblique;
+    src: url(/fonts/Avenir-BookOblique.ttf);
+    font-style: oblique;
+}
+@font-face {
+    font-family: Avenir-Light;
+    src: url(/fonts/Avenir-Light.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir-LightOblique;
+    src: url(/fonts/Avenir-LightOblique.ttf);
+    font-style: oblique;
+}
+@font-face {
+    font-family: Avenir-Black;
+    src: url(/fonts/Avenir-Black.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir-BlackOblique;
+    src: url(/fonts/Avenir-BlackOblique.ttf);
+    font-style: oblique;
+}
+@font-face {
+    font-family: Avenir-Heavy;
+    src: url(/fonts/Avenir-Heavy.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir-HeavyOblique;
+    src: url(/fonts/Avenir-HeavyOblique.ttf);
+    font-style: oblique;
+}
+@font-face {
+    font-family: Avenir-Medium;
+    src: url(/fonts/Avenir-Medium.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir-MediumOblique;
+    src: url(/fonts/Avenir-MediumOblique.ttf);
+    font-style: oblique;
+}
+@font-face {
+    font-family: Avenir-Oblique;
+    src: url(/fonts/Avenir-Oblique.ttf);
+    font-style: oblique;
+}
+@font-face {
+    font-family: Avenir-Roman;
+    src: url(/fonts/Avenir-Roman.ttf);
+    font-style: normal;
+}
+
