@@ -664,6 +664,17 @@
                             </ul>
                         </li>
                         <li class="portfolio-item">
+                            <img src="img/portfolio/item7.jpg" class="lazy img-responsive" alt="This is the content marketing introduction website.">
+                            <figcaption class="mask">
+                                <h3>Qestral</h3>
+                                <p>AngularJS, Bootstap, Gulp</p>
+                            </figcaption>
+                            <ul class="external">
+                                <li><a class="fancybox" title="Technisoil" data-fancybox-group="works" href="img/portfolio/item7.jpg"><i class="fa fa-search"></i></a></li>
+                                <li><a href="http://www.qestral.com/"><i class="fa fa-link"></i></a></li>
+                            </ul>
+                        </li>
+                        <li class="portfolio-item">
                             <img src="img/portfolio/item2.jpg" class="lazy img-responsive" alt="This is the indonesian Hoya Lens company website. Development Stack: Laravel ">
                             <figcaption class="mask">
                                 <h3>Hoya Lens</h3>
@@ -683,17 +694,6 @@
                             <ul class="external">
                                 <li><a class="fancybox" title="Behind The world" data-fancybox-group="works" href="img/portfolio/item3.jpg"><i class="fa fa-search"></i></a></li>
                                 <li><a href="https://shopboltnow.com"><i class="fa fa-link"></i></a></li>
-                            </ul>
-                        </li>
-                        <li class="portfolio-item">
-                            <img src="img/portfolio/item5.jpg" class="lazy img-responsive" alt="This is the innovativescholars site. ">
-                            <figcaption class="mask">
-                                <h3>Innovativescholars</h3>
-                                <p>WordPress website</p>
-                            </figcaption>
-                            <ul class="external">
-                                <li><a class="fancybox" title="Innovativescholars" data-fancybox-group="works" href="img/portfolio/item5.jpg"><i class="fa fa-search"></i></a></li>
-                                <li><a href="http://www.innovativescholars.com "><i class="fa fa-link"></i></a></li>
                             </ul>
                         </li>
                         <li class="portfolio-item">
