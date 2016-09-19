@@ -1,3 +1,3 @@
 
-# alexschmidt.herokuapp.com
-Alex's personal heroku app
+# Alex Schmidt
+Alex's personal webapp
